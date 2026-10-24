@@ -20,4 +20,4 @@ Hold On Publisher is intended solely for use by its developer and channel owner.
 
 Please read our [Privacy Policy](privacy.md) for information about how the application accesses and handles Google and YouTube data.
 
-Please read our [Terms of Service](terms) for the terms governing use of Hold On Publisher.
+Please read our [Terms of Service](https://niro-cm.github.io/hold-on-publisher-info/terms) for the terms governing use of Hold On Publisher.
