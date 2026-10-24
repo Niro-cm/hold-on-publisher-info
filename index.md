@@ -19,3 +19,5 @@ Hold On Publisher is intended solely for use by its developer and channel owner.
 ## Privacy
 
 Please read our [Privacy Policy](privacy.md) for information about how the application accesses and handles Google and YouTube data.
+
+Please read our [Terms of Service](terms) for the terms governing use of Hold On Publisher.
